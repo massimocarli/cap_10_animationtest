@@ -1,0 +1,6 @@
+<resources>
+
+    <integer name="duration_max_value">1000</integer>
+    <integer name="number_max_value">1000</integer>
+    <integer name="grid_column_number">2</integer>
+</resources>
